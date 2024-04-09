@@ -1,9 +1,11 @@
-def test(a=2, b="Hi"):
+def test():
+    a = 4
+    b = 5
     print(a, b)
 
 
 test()
-test(5, 8)
+
 
 
 def test2(a, b, d='Yes'):
