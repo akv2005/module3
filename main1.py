@@ -1,6 +1,6 @@
 def test():
     a = 4
-    b = 5
+    b = True
     print(a, b)
 
 
