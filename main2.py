@@ -22,7 +22,7 @@ print_params(values_dict)
 print_params(*values_dict)
 print_params(**values_dict)
 
-print()
+print('Проверка, работает ли print_params(*values_list_2, 42)')
 
 values_list_2 = [33, 'bye bye']
 print_params(*values_list_2, 42)
