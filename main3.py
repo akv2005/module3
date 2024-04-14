@@ -14,4 +14,4 @@ def factorial(n):
         return n * factorial(n - 1)
 
 
-print('Факториалэл', factorial(6))
+print('Факториалал', factorial(6))
